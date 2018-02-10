@@ -32,8 +32,8 @@ public class SeleniumDemo extends BaseTest {
 	
 		}catch(Exception ex){
 	System.out.println(ex.getMessage());
-	//this is added for test checking message verify
-	
+	/*this is added for test checking message verify
+	*/
            }		
 }
 		
