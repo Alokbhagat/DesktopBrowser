@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55615" started-at="2018-02-07T04:18:10Z" finished-at="2018-02-07T04:19:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55615" started-at="2018-02-07T04:18:10Z" finished-at="2018-02-07T04:19:06Z">
+      <class name="com.experitest.demo.SeleniumDemo">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.demo.SeleniumDemo@2b552920]" name="setUp" is-config="true" duration-ms="12900" started-at="2018-02-07T09:48:10Z" finished-at="2018-02-07T09:48:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LaunchApplicationTest()[pri:0, instance:com.experitest.demo.SeleniumDemo@2b552920]" name="LaunchApplicationTest" duration-ms="17964" started-at="2018-02-07T09:48:23Z" finished-at="2018-02-07T09:48:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplicationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.demo.SeleniumDemo@2b552920]" name="tearDown" is-config="true" duration-ms="2533" started-at="2018-02-07T09:48:41Z" finished-at="2018-02-07T09:48:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.demo.SeleniumDemo@2b552920]" name="setUp" is-config="true" duration-ms="2880" started-at="2018-02-07T09:48:44Z" finished-at="2018-02-07T09:48:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.experitest.demo.SeleniumDemo@2b552920]" name="Test2" duration-ms="18968" started-at="2018-02-07T09:48:47Z" finished-at="2018-02-07T09:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.demo.SeleniumDemo@2b552920]" name="tearDown" is-config="true" duration-ms="327" started-at="2018-02-07T09:49:06Z" finished-at="2018-02-07T09:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.experitest.demo.SeleniumDemo -->
+      <class name="com.experitest.demo.SeleniumDemo3Test">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.demo.SeleniumDemo3Test@1f36e637]" name="setUp" is-config="true" duration-ms="6267" started-at="2018-02-07T09:48:10Z" finished-at="2018-02-07T09:48:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LaunchApplicationTest()[pri:0, instance:com.experitest.demo.SeleniumDemo3Test@1f36e637]" name="LaunchApplicationTest" duration-ms="15770" started-at="2018-02-07T09:48:17Z" finished-at="2018-02-07T09:48:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplicationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.demo.SeleniumDemo3Test@1f36e637]" name="tearDown" is-config="true" duration-ms="489" started-at="2018-02-07T09:48:32Z" finished-at="2018-02-07T09:48:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.demo.SeleniumDemo3Test@1f36e637]" name="setUp" is-config="true" duration-ms="5675" started-at="2018-02-07T09:48:33Z" finished-at="2018-02-07T09:48:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.experitest.demo.SeleniumDemo3Test@1f36e637]" name="Test2" duration-ms="14575" started-at="2018-02-07T09:48:39Z" finished-at="2018-02-07T09:48:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.demo.SeleniumDemo3Test@1f36e637]" name="tearDown" is-config="true" duration-ms="446" started-at="2018-02-07T09:48:53Z" finished-at="2018-02-07T09:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.experitest.demo.SeleniumDemo3Test -->
+      <class name="com.experitest.demo.SeleniumDemo2Test">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.demo.SeleniumDemo2Test@2758fe70]" name="setUp" is-config="true" duration-ms="10981" started-at="2018-02-07T09:48:10Z" finished-at="2018-02-07T09:48:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LaunchApplicationTest()[pri:0, instance:com.experitest.demo.SeleniumDemo2Test@2758fe70]" name="LaunchApplicationTest" duration-ms="14559" started-at="2018-02-07T09:48:21Z" finished-at="2018-02-07T09:48:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApplicationTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.demo.SeleniumDemo2Test@2758fe70]" name="tearDown" is-config="true" duration-ms="2388" started-at="2018-02-07T09:48:36Z" finished-at="2018-02-07T09:48:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.experitest.demo.SeleniumDemo2Test@2758fe70]" name="setUp" is-config="true" duration-ms="5717" started-at="2018-02-07T09:48:38Z" finished-at="2018-02-07T09:48:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[@os='android']]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:com.experitest.demo.SeleniumDemo2Test@2758fe70]" name="Test2" duration-ms="14657" started-at="2018-02-07T09:48:44Z" finished-at="2018-02-07T09:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.experitest.demo.SeleniumDemo2Test@2758fe70]" name="tearDown" is-config="true" duration-ms="512" started-at="2018-02-07T09:48:59Z" finished-at="2018-02-07T09:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.experitest.demo.SeleniumDemo2Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
