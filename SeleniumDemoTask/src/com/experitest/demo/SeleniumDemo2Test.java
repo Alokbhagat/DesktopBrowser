@@ -32,6 +32,7 @@ public class SeleniumDemo2Test extends BaseTest {
 			dc.setCapability("newCommandTimeout", 120);
 			driver = new RemoteWebDriver(new URL(getProperty("url",cloudProperties) + "/wd/hub"), dc);
 		
+			//this is test demo comment
 		}catch(Exception ex){
 	System.out.println(ex.getMessage());
 	
